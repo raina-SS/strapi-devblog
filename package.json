@@ -12,11 +12,11 @@
   "devDependencies": {},
   "dependencies": {
     "@raina-ss/strapi-plugin-github-projects": "^1.0.0",
-    "@strapi/plugin-graphql": "4.14.5",
-    "@strapi/plugin-i18n": "4.14.5",
-    "@strapi/plugin-users-permissions": "4.14.5",
-    "@strapi/strapi": "4.14.5",
-    "better-sqlite3": "8.6.0",
+    "@strapi/plugin-graphql": "4.15.4",
+    "@strapi/plugin-i18n": "4.15.4",
+    "@strapi/plugin-users-permissions": "4.15.4",
+    "@strapi/strapi": "4.15.4",
+    "better-sqlite3": "^9.1.1",
     "markdown-it": "^13.0.2",
     "pg": "^8.11.3",
     "pg-connection-string": "^2.6.2"
